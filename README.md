@@ -1,4 +1,4 @@
-# Align-filament-features
+# Filament-align
 Matlab code used to align filament/fibril/polymer features such as helical repeats in image files.
 Run each of the following codes in succession to detect (F1), analyze (F2) and correlate (F3) features.
 - F1_detect_skel: Filament detection is performed using thresholding and skeletonization (does not perform well for high density, branched or overlapping filaments) 
